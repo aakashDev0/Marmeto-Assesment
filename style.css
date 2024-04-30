@@ -145,7 +145,6 @@ body {
 
 .color.selected {
   box-shadow: inset 0 0 0 5px #fff;
-  background-image: url('tick.jpg');
   background-size: 30px;
   background-position: center;
   background-repeat: no-repeat;
@@ -255,12 +254,6 @@ body {
   flex: 2;
   color: #3a4980;
   text-align: center;
-}
-
-
-.add-to-cart-btn::before {
-  content: url('bag.jpg');
-  margin-right: 8px;
 }
 
 .add-to-cart-btn {
